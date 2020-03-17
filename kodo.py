@@ -13,8 +13,8 @@ reload(sys)
 
 sys.setdefaultencoding('utf-8')
 
-access_key = 'RQ-0qS4uk-PuRfCiSHyDnfwbS5TPj8vp1fMej5IQ'
-secret_key = 'zaYQPfYpTGklojTBzVh2Vv7S2IQvkipedQCpvGgb'
+access_key = '****'
+secret_key = '****'
 
 with open ('/Users/zhangmengege/Documents/python-workespace/json.txt','r') as f:
     data = json.load(f)
